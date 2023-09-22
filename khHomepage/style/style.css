@@ -1,0 +1,44 @@
+body{
+    box-sizing: border-box;
+    color: #222;
+    font-family: 'Pretendard';
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 1.3;
+    letter-spacing: -0.05em;
+}
+
+ul, ol, li{
+    list-style: none;
+}
+img{
+    border-style: none;
+}
+
+
+.table{
+    margin-top: 85px;
+}
+
+
+
+.title-logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.main-box{
+    position: relative;
+}
+.idpw{
+    display: flex;
+    width: 26px;
+    height: 28px;
+    margin: auto;
+    vertical-align: middle;
+    margin-top: 85px;
+}
+.text-box{
+    border-style: initial;
+}

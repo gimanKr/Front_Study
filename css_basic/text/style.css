@@ -1,0 +1,12 @@
+.text-a{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    
+    font-style: italic; /*글자 기울기*/
+    text-align: center;
+    line-height: 100px; 
+
+    text-decoration: underline;
+    text-decoration: none; /*데코를 기본값으로 만들때 사용*/
+}
